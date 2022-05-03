@@ -13,3 +13,5 @@ git branch -M main
 git push -u origin main
 
 git pull origin main #  a friss repo letöltése
+
+git remote -v #távoli repo lekérdezése
