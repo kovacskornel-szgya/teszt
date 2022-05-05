@@ -1,4 +1,4 @@
-#Hello
+#Hello Mizu
 …or create a new repository on the command line
 echo "# teszt" >> README.md #fájl létrehozása, az első sorba "# teszt" kerül
 git init #a git mappa inicializálása
